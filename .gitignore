@@ -64,3 +64,11 @@ yarn-error.log*
 .netlify
 *.tsbuildinfo
 *.stackdump
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
