@@ -41,7 +41,7 @@ import { useContractConfig } from "./hooks"
 import Portis from "@portis/web3";
 import Fortmatic from "fortmatic";
 import Authereum from "authereum";
-import humanizeDuration from "humanize-duration";
+// import humanizeDuration from "humanize-duration";
 
 const { ethers } = require("ethers");
 /*
